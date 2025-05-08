@@ -1,0 +1,311 @@
+
+Se encontraron 28 asteroides entre 2025-04-30 y 2025-05-01.
+
+Asteroide
+ID: 3277704
+Nombre: (2005 JR5)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3277704
+Magnitud: 22.1
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 78443.5345964111
+Distancia mínima (km): 56074469.954528405
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 3550073
+Nombre: (2010 UJ7)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3550073
+Magnitud: 25.4
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 62969.8562945834
+Distancia mínima (km): 66614387.720820748
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 3719999
+Nombre: (2015 KR120)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3719999
+Magnitud: 22.97
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 59474.4944348646
+Distancia mínima (km): 41114716.83844596
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 3802425
+Nombre: (2018 GN1)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3802425
+Magnitud: 27.4
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 53676.9692186454
+Distancia mínima (km): 30005556.8717612
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 3805268
+Nombre: (2018 HS)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3805268
+Magnitud: 25.1
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 80682.7405568519
+Distancia mínima (km): 34723968.731088011
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 3884012
+Nombre: (2019 UT8)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3884012
+Magnitud: 27.2
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 63412.0794787666
+Distancia mínima (km): 72709123.575731658
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54276734
+Nombre: (2022 HE3)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54276734
+Magnitud: 25.32
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 65184.9195783766
+Distancia mínima (km): 35614251.64060803
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54308049
+Nombre: (2022 SJ11)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54308049
+Magnitud: 26.4
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 93477.0789791273
+Distancia mínima (km): 53347319.484162155
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54319454
+Nombre: (2022 UD7)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54319454
+Magnitud: 25.88
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 40108.9152026268
+Distancia mínima (km): 32641107.638819656
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54392657
+Nombre: (2023 TB7)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54392657
+Magnitud: 25.55
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 34894.7086181439
+Distancia mínima (km): 29933439.284103719
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54457673
+Nombre: (2024 NH)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54457673
+Magnitud: 25.41
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 17193.8975298191
+Distancia mínima (km): 31990061.643003637
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54468531
+Nombre: (2024 RN3)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54468531
+Magnitud: 26.46
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 30085.9083883513
+Distancia mínima (km): 67076760.314520861
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54524051
+Nombre: (2025 FX)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54524051
+Magnitud: 24.0
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 33018.5386641677
+Distancia mínima (km): 13467363.418581615
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54527648
+Nombre: (2025 HM4)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527648
+Magnitud: 26.193
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 68181.1690493873
+Distancia mínima (km): 767144.31006841
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54527743
+Nombre: (2025 HC6)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527743
+Magnitud: 26.64
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 30075.5543347233
+Distancia mínima (km): 8285537.56990226
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54528736
+Nombre: (2025 JC)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54528736
+Magnitud: 25.299
+Peligroso?: False
+Aproximación más cercana: 2025-04-30
+Velocidad relativa (km/h): 38690.6698133179
+Distancia mínima (km): 2140238.113644534
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 3373919
+Nombre: (2007 GW4)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3373919
+Magnitud: 20.6
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 61267.7600566132
+Distancia mínima (km): 70447281.392706614
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54110077
+Nombre: (2021 CR1)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54110077
+Magnitud: 25.1
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 48556.4037169165
+Distancia mínima (km): 69098808.077459776
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54138303
+Nombre: (2021 GT16)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54138303
+Magnitud: 27.4
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 52254.7987041166
+Distancia mínima (km): 31464966.07324396
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54144240
+Nombre: (2021 JZ2)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54144240
+Magnitud: 22.91
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 70195.5890191685
+Distancia mínima (km): 60630567.421795227
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54421069
+Nombre: (2024 BF)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54421069
+Magnitud: 24.46
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 16418.461483676
+Distancia mínima (km): 3635347.530341538
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54527149
+Nombre: (2025 GT1)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527149
+Magnitud: 24.945
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 39867.9932344165
+Distancia mínima (km): 4308216.280001464
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54527284
+Nombre: (2025 HE1)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527284
+Magnitud: 24.453
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 36357.5668938217
+Distancia mínima (km): 12767631.349486215
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54527292
+Nombre: (2025 HN1)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527292
+Magnitud: 25.38
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 22530.624845234
+Distancia mínima (km): 13377760.816918747
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54527390
+Nombre: (2025 HF2)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527390
+Magnitud: 24.516
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 48137.5125858967
+Distancia mínima (km): 20306711.810612163
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54527597
+Nombre: (2025 HP3)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54527597
+Magnitud: 23.827
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 23845.099767693
+Distancia mínima (km): 28455394.855472503
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54528735
+Nombre: (2025 JB)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54528735
+Magnitud: 27.509
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 51293.1370904302
+Distancia mínima (km): 199574.539063658
+Cuerpo orbital: Earth
+----------------------------------------
+Asteroide
+ID: 54528916
+Nombre: (2025 JF)
+URL NASA: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54528916
+Magnitud: 28.543
+Peligroso?: False
+Aproximación más cercana: 2025-05-01
+Velocidad relativa (km/h): 81718.2112343933
+Distancia mínima (km): 173735.381605991
+Cuerpo orbital: Earth
+----------------------------------------
